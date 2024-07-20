@@ -21,4 +21,10 @@
 - 📫 You can reach me via:
   - Email: 17ayush@gmail.com
 
+- 🌐 Connect with me:
+  - [Kaggle Profile]([https://www.kaggle.com/yourprofile](https://www.kaggle.com/studentofds))
+  - [LinkedIn](https://www.linkedin.com/in/yourprofile)
+  
+  
+
 - 😄 Preferred pronouns: He/Him
