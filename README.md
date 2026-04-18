@@ -32,82 +32,303 @@ I am a Data Science student who is learning and working with:
 
 ## What I Know
 
-Here are the tools, concepts, and systems I have worked with so far:
+Below is a detailed breakdown of the concepts, tools, systems, and techniques I have worked with so far.
 
-- **Machine Learning / Deep Learning / AI**  
-  Supervised and unsupervised learning, Random Forests, Neural Networks, CNNs, LSTM, model building and evaluation  
+---
 
-- **Data Analysis and Statistics**  
-  Exploratory Data Analysis (EDA), Statistical Inference, Feature Engineering, Data Validation, Data Mining  
+### Applied Artificial Intelligence / Machine Learning / Deep Learning
 
-- **Time Series**  
-  Forecasting models like ARIMA and SARIMA, trend and seasonality analysis  
+- Core AI systems involving prediction, reasoning, decision-making, pattern recognition, and language understanding  
 
-- **Natural Language Processing**  
-  Text Mining, Text Classification, NLP pipelines  
+#### Search and Problem Solving
+- State space representation (initial state, goal state)  
+- Transition models  
+- Path cost and optimal solutions  
+- Algorithms:
+  - Breadth-First Search (BFS)  
+  - Depth-First Search (DFS)  
+  - A* Search  
+  - Greedy Best First Search  
+  - Adversarial Search  
 
-- **Data Tools and Libraries**  
-  NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
+#### Knowledge Representation and Reasoning
+- Knowledge Base (KB)  
+- Propositional Logic:
+  - NOT, AND, OR, Implication, Biconditional  
+- Inference:
+  - Model checking  
+  - Resolution  
 
-- **Databases and DBMS**  
-  SQL, PostgreSQL, database design, query handling  
+#### Uncertainty
+- Conditional Probability  
+- Bayes’ Rule  
+- Bayesian Networks  
 
-- **Big Data and Systems**  
-  Hadoop ecosystem including Hive, Pig, HBase, working with large datasets and Linux-based environments  
+#### Optimization
+- Local Search  
+- Hill Climbing  
+- Simulated Annealing  
 
-- **MLOps and Pipelines**  
-  Basic understanding of ML pipelines, data workflows, APIs, and deployment concepts  
+#### Learning
+- Supervised Learning  
+- Unsupervised Learning  
+- Reinforcement Learning  
 
-- **IoT and Embedded Systems**  
-  Python for Raspberry Pi, Arduino-based systems, Node.js for IoT applications  
+#### Neural Networks
+- Input, hidden, output layers  
+- Weights and biases  
+- Gradient Descent  
+- Backpropagation  
 
-- **Web and App Development**  
-  Full stack development using Django and React, REST APIs, HTML, CSS, JavaScript  
+#### Language (NLP)
+- Sentiment Analysis  
+- Machine Translation  
+- Recurrent Neural Networks (RNNs)  
 
-- **Programming**  
-  Python, JavaScript, Java, C++, Rust  
+---
 
-- **Tools and Platforms**  
-  Power BI, Tableau, Excel VBA, Git, APIs, basic cloud concepts  
+### Reinforcement Learning
 
-- **Quantitative and Analytical Background**  
-  Mathematics, Operations Research, Business Statistics, Economics, Finance  
+- Reward-based systems  
+- Policy learning  
+- Environment-agent interaction  
+- Decision optimization  
+
+---
+
+### Computer Vision
+
+- CNN-based image classification  
+- Image preprocessing and normalization  
+- Data augmentation  
+- Model training and evaluation on image datasets  
+
+---
+
+### Natural Language Processing (NLP)
+
+- Text Mining  
+- Text Classification  
+- Tokenization and feature extraction  
+- NLP pipelines and preprocessing workflows  
+
+---
+
+### Time Series Analysis
+
+- ARIMA and SARIMA models  
+- Trend, seasonality, and decomposition  
+- Sequential data modeling  
+- Forecasting and evaluation  
+
+---
+
+### Statistical Modeling and Inference
+
+- Confidence intervals  
+- Likelihood function and Maximum Likelihood Estimation (MLE)  
+- Computing and visualizing likelihood functions  
+- Frequentist inference  
+- Bayesian inference  
+- Continuous Bayes theorem  
+- Posterior intervals  
+
+- Population mean and proportion estimation  
+- Large sample hypothesis testing  
+- Sampling distribution of variance  
+- Student’s t-distribution  
+- Small sample tests  
+- Confidence intervals  
+- Type I and Type II errors  
+- Z-tests  
+- p-value based hypothesis testing  
+
+- Chi-square tests (independence and goodness of fit)  
+- Distribution fitting  
+- ANOVA  
+- MANOVA  
+
+- Linear Regression:
+  - Least squares  
+  - Ordinary Least Squares (OLS)  
+  - Residuals  
+  - Regression inference  
+
+- Multivariable Regression:
+  - Multivariate regression models  
+  - Interaction terms  
+  - Non-linear transformations  
+  - Qualitative predictors  
+
+- Multiple Regression:
+  - Estimation problems  
+  - Inference problems  
+
+- Advanced Regression Topics:
+  - Dummy variable regression  
+  - Multicollinearity  
+  - Heteroscedasticity  
+  - Autocorrelation  
+
+- Econometrics:
+  - Model specification  
+  - Diagnostic testing  
+  - Correlation and covariance analysis  
+  - Canonical analysis  
+
+---
+
+### Data Science and Analytics
+
+- Exploratory Data Analysis (EDA)  
+- Data cleaning and preprocessing  
+- Feature Engineering (including PCA, SVD)  
+- Data Validation  
+- Data Mining  
+- Data Analysis and interpretation  
+
+---
+
+### Quantitative Finance
+
+- Log returns  
+- Volatility modeling  
+- Risk metrics:
+  - Value at Risk (VaR)  
+  - Conditional Value at Risk (CVaR)  
+  - Sharpe Ratio  
+- Financial data analysis  
+
+---
+
+### MLOps and Data Pipelines
+
+- ML pipelines and workflows  
+- Data ingestion and ETL pipelines  
+- API-based model interaction  
+- Deployment basics  
+- Monitoring and workflow structuring  
+
+---
+
+### DBMS and Databases
+
+- SQL (joins, aggregations, queries)  
+- PostgreSQL  
+- Schema design and normalization  
+- NoSQL concepts (MongoDB-type systems)  
+
+---
+
+### Big Data Systems
+
+- Hadoop ecosystem  
+- Hive, Pig, HBase  
+- Handling large-scale datasets  
+- Distributed data processing concepts  
+- Linux-based environments and commands  
+
+---
+
+### IoT and Embedded Systems
+
+- Python for Raspberry Pi  
+- Arduino systems  
+- Node.js for IoT applications  
+- Sensor-based data pipelines  
+
+---
+
+### Web and App Development
+
+- Full Stack Development using Django and React  
+- REST APIs  
+- HTML, CSS, JavaScript  
+- Backend system design  
+- Application-level architecture  
+
+---
+
+### Programming
+
+- Python  
+- JavaScript  
+- Java  
+- C++  
+- Rust  
+
+---
+
+### Libraries and Frameworks
+
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+
+---
+
+### Data Visualization and Tools
+
+- Power BI  
+- Tableau  
+- Excel VBA  
+- Data visualization and dashboard creation  
+
+---
+
+### Tools, APIs, and Deployment
+
+- Git (version control)  
+- APIs and integrations  
+- Deployment tools  
+- Basic cloud computing concepts  
+
+---
+
+### Quantitative and Analytical Background
+
+- Mathematics  
+- Operations Research  
+- Business Statistics  
+- Economics  
+- Quantitative Finance  
 
 ---
 
 ## Areas of Interest
 
-These are the areas I want to explore and learn in more depth:
-
 - Explainable AI (XAI)  
 - Advanced Machine Learning and Deep Learning architectures  
 - Reinforcement Learning systems  
-- Generative AI and LLM architectures  
-- Prompt Engineering and RAG systems  
+- Generative AI and Large Language Models (LLMs)  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG) systems  
 - Vector Databases  
-- MLOps and end-to-end ML systems  
+- End-to-end MLOps systems  
 - Algorithmic Trading and Financial Modeling  
 - Bioinformatics and Cheminformatics  
-- System Design for building scalable data applications  
 - DevOps and deployment systems  
 - Advanced programming and problem solving  
+- System Design for scalable data systems and applications  
 
-I am especially interested in system design to build well-structured data science applications, web apps, and full end-to-end systems.
+I am especially interested in System Design to build scalable data science applications, web apps, and full end-to-end systems.
 
 ---
 
 ## Collaboration
 
-I am open to potential collaborations. You can:
+I am open to collaborations. You can:
 
-- Suggest new ideas or improvements to existing projects  
-- Fork my repositories and add new features or optimizations  
-- Improve model performance, pipelines, or system design  
-- Add better UI/UX or full stack integrations  
-- Experiment with different approaches and share results  
-- Contribute to scaling projects from prototype to production-level systems  
-
-If you have something interesting in mind, feel free to reach out.
+- Suggest new project ideas  
+- Fork and extend projects  
+- Improve models and pipelines  
+- Add UI/UX or full stack integrations  
+- Optimize performance and scalability  
+- Experiment with different approaches  
+- Help productionize systems  
+- Improve documentation and deployment  
 
 ---
 
